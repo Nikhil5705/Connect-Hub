@@ -3,7 +3,7 @@ import React from 'react'
 const UserFeed = () => {
   return (
     <div>
-      hello world
+      User Feed
     </div>
   )
 }
