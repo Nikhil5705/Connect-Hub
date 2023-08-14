@@ -1,11 +1,10 @@
 import React from 'react'
 
-const UserFeed = () => {
+export const Bookmark = () => {
   return (
     <div>
-      User Feed
+      
     </div>
   )
 }
 
-export default UserFeed
